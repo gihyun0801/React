@@ -1,0 +1,21 @@
+/* 라이트 테마에 대한 스타일 정의 */
+
+.light-theme{
+    background: #fff;
+    color:black;
+    padding:20px;
+    text-align: center;
+    width:100%;
+    height:300px;
+}
+
+/* 다크 테마에 대한 스타일 정의 */
+
+.dark-theme{
+    background: #000;
+    color:#fff;
+    padding:20px;
+    text-align: center;
+    width:100%;
+    height:300px;
+}
